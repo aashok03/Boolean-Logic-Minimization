@@ -1,2 +1,2 @@
 # Boolean-Logic-Minimization
-A software tool which will generate the minimized 2-level SOP (Sum of Products) and POS (Product of Sums) expressions of all single-output Boolean functions up to 10 literals.
+A software tool which will generate the minimized 2-level SOP (Sum of Products) and POS (Product of Sums) expressions of all single-output Boolean functions up to 10 literals. It uses Quine-McCluskey's and Petrick's methods to find the prime implicants, coverage table, and the essential PIs with the least cost. Testing instructions and Functional Layout files are provided. The UI uses the Tkinter library in Python.
